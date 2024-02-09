@@ -47,12 +47,12 @@
                     <span class="navbar-toggler-icon text-light"></span>
                 </button>
                 <div class="collapse navbar-collapse d-flex-lg justify-content-around" id="navbarSupportedContent">
-                    <ul class="nav nav-pills nav-fill ">
+                <ul class="nav nav-pills nav-fill ">
                         <li class="nav-item ms-1">
                             <a class="nav-link " aria-current="page" href="./home.html">Home</a>
                         </li>
                         <li class="nav-item ms-1">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link" href="about.html">About</a>
                         </li>
                         <li class="nav-item ms-1">
                             <a class="nav-link" href="./fleet.html">Fleet</a>
@@ -61,19 +61,19 @@
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
                                 aria-expanded="false">Services</a>
                             <ul class="dropdown-menu bg-dark">
-                                <li><a class="dropdown-item" href="#">On call / within city limits</a></li>
-                                <li><a class="dropdown-item" href="#">Intercity / Local</a></li>
-                                <li><a class="dropdown-item" href="#">Intercity / City to City</a></li>
+                                <li><a class="dropdown-item" href="./OnCallWithinCity.html">On call / within city limits</a></li>
+                                <li><a class="dropdown-item" href="./intercitylocal.html">Intercity / Local</a></li>
+                                <li><a class="dropdown-item" href="./intercity_to_city.html">Intercity / City to City</a></li>
 
                                 <li><a class="dropdown-item" href="#">Monthly Package Module(Corporate)</a></li>
-                                <li><a class="dropdown-item" href="#">Monthly Km Module(Corporate)</a></li>
+                                <li><a class="dropdown-item" href="./MonthlyKm.html">Monthly Km Module(Corporate)</a></li>
                             </ul>
                         </li>
                         <li class="nav-item ms-1">
-                            <a class="nav-link" href="#">Booking</a>
+                            <a class="nav-link" href="./bookings.php">Booking</a>
                         </li>
                         <li class="nav-item ms-1">
-                            <a class="nav-link" href="#">Rate Card</a>
+                            <a class="nav-link" href="./ratecard.html">Rate Card</a>
                         </li>
                         <li class="nav-item ms-1">
                             <a class="nav-link" href="#">Career</a>
@@ -82,10 +82,10 @@
                             <a class="nav-link" href="#">Gallery</a>
                         </li>
                         <li class="nav-item ms-1">
-                            <a class="nav-link" href="./public-opinion.html">Public Opinion</a>
+                            <a class="nav-link" href="./public-opinion.php">Public Opinion</a>
                         </li>
                         <li class="nav-item ms-1">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="./contact.html">Contact</a>
                         </li>
 
                     </ul>
